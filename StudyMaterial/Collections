@@ -1,7 +1,7 @@
 Collection	Duplicates	Sorting
-Set	No	No
-SortedSet	No	Ascending
-List	Yes	Indexed
-Queue	Yes	ProcessingOrder
-Map	No	No
-SortedMap	No	AscendingKey
+Set	        No          No
+SortedSet   No          Ascending
+List        Yes         Indexed
+Queue       Yes         ProcessingOrder
+Map         No          No
+SortedMap   No          AscendingKey

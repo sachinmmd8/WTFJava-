@@ -1,7 +1,12 @@
 Collection	Duplicates	Sorting
-Set	        No          No
-SortedSet     No          Ascending
+Set	         No          No
+SortedSet    No          Ascending
 List         Yes         Indexed
 Queue        Yes         ProcessingOrder
 Map          No          No
 SortedMap    No          AscendingKey
+ArrayList    Yes         Indexed(not sorted)
+HashSet      No          No
+TreeSet      No          Ascending(synchronized externally)
+HashMap      No          No
+Vector       Yes         Indexed(not sorted)(sychronized for thread safety)

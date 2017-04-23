@@ -1,4 +1,5 @@
 Collection	Duplicates	Sorting
+
 Set	         No          No
 SortedSet    No          Ascending
 List         Yes         Indexed
